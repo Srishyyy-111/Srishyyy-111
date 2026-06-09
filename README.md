@@ -3,6 +3,7 @@
 
 
 ♕ About me 
+Hi! there, I'm Srishti Singh.
 
 I'm a Final Year BBA Student
 Specialization: Strategy & Business Analytics
