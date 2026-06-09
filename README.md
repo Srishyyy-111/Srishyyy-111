@@ -13,7 +13,7 @@ Interested in:
 - Strategic Decision Making
 
 Currently Focus:
-- <img width="960" height="1280" alt="Power-BI" src="https://github.com/user-attachments/assets/80ef6a61-178b-405f-9d81-4f72b11def94" /> Power BI
+- Power BI
 - SQL
 - Python
 - Excel
