@@ -26,6 +26,7 @@ Current Focus:
 - Excel
 - Business Case Studies
 - Consulting Frameworks
+- Tableau
 
 Goal:
 To build business-focused analytics solutions that help organizations improve performance, reduce costs, and drive growth.
